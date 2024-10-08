@@ -1,0 +1,221 @@
+IBM 3Q23 Earnings Prepared Remarks 
+IBM’s revenue growth, together with a good portfolio mix and yield from 
+our productivity initiatives generated strong margin, profit and free cash 
+flow performance. Operating gross margin expanded 160 basis points and 
+operating pre-tax margin expanded 170 basis points. Within that PTI 
+margin, we absorbed a year-to-year currency impact of over 150 basis 
+points. Despite that headwind, our margin expansion was broad based, 
+with improvements in every business segment.   
+ 
+Driving efficiency and productivity has always been part of our operating 
+and financial models. These ongoing productivity initiatives enable 
+reinvestment in the business, increase financial flexibility and contribute 
+to margin expansion. Our activities range from simplifying our application 
+environment to digitally transforming our business processes by applying 
+AI at scale. We are ahead of pace to achieve our target of $2 billion in 
+annual run-rate savings by the end of 2024. While there is still more to do, 
+I am pleased with our progress. The combination of our revenue and 
+margin performance yielded strong profit growth. Operating pre-tax profit 
+was up 17% to $2.3 billion.   
+ 
+We generated $1.7 billion of free cash flow in the quarter, and over $5 
+billion year to date, which is up $1 billion versus last year. Free cash flow 
+growth through the first three quarters was driven primarily by cash 
+sourced from our operating profit performance. We also had working 
+capital efficiencies driven by solid collections. These growth drivers were 
+partially offset by higher performance-based compensation payments 
+earlier in the year. 
+ 
+In terms of cash uses, year to date we spent about $5 billion on 
+acquisitions and returned four-and-a-half billion dollars to shareholders 
+through dividends.  
+  IBM 3Q23 Earnings Prepared Remarks 
+Our resulting cash balance at the end of September was $11 billion. That’s 
+up over $2 billion from year end, but with the acquisition of Apptio in the 
+third quarter, cash is down over $5 billion from June. Our debt balance is 
+now $55 billion, also down from June. 
+ 
+Putting this all together, our business fundamentals are solid, with 
+sustainable revenue growth, margin expansion, solid cash generation and 
+a strong balance sheet with financial flexibility to support our business 
+into the future.   
+  IBM 3Q23 Earnings Prepared Remarks 
+Software 
+ 
+Turning to the segments, Software revenue grew 6%, with contribution 
+from Hybrid Platform & Solutions and Transaction Processing. This 
+performance reflects growth in both our transactional revenue and our 
+recurring revenue base, which is about 80% of our annual software 
+revenue. 
+ 
+In Hybrid Platform & Solutions, revenue was up 7% with growth across 
+Red Hat, Automation and Data & AI, as we execute our platform-based 
+approach to hybrid cloud and AI. Red Hat revenue was up 8%. We 
+continue to deliver good growth in OpenShift and Ansible, both gaining 
+share again this quarter. Clients are committing to our hybrid cloud 
+approach with annual bookings up 14% in the quarter. This includes 
+double-digit growth across RHEL, OpenShift and Ansible, partially offset 
+by headwinds in consumption-based services. IT and business automation 
+are top client priorities, and we’ve been investing to capture the 
+opportunity. This quarter, our Automation revenue grew 13%, with 
+pervasive growth across all business areas. We had strength in AIOps and 
+Management driven by good performance in Instana, Turbonomic and now 
+Apptio as clients look to optimize business outcomes and boost 
+productivity. Data & AI revenue was up 6%. Growth areas include Data 
+Fabric and Customer Care as enterprise clients are both preparing for and 
+adopting generative AI solutions, leveraging watsonx. We also grew in 
+Asset & Supply Chain Management as we help enterprises run sustainable 
+operations. Security revenue declined 3%. We delivered growth in security 
+software driven by Data Security and Identity & Access Management. This 
+was more than offset by declines in managed security services. Looking 
+across these businesses, our Hybrid Platform & Solutions ARR has grown 
+to $14 billion, up 7% since last year.  
+ 
+  IBM 3Q23 Earnings Prepared Remarks 
+In Transaction Processing, revenue was up 5%. Throughout this year 
+we’ve been talking about how the success of the last couple of zSystems 
+cycles is driving demand for this mission-critical software. This, together 
+with price increases, contributed to year-to-date growth in both recurring 
+and transactional software revenue in Transaction Processing. 
+ 
+Moving to profit for the Software segment, we expanded gross and pre-tax 
+margins. Our pre-tax margin was up 120 basis points, even while 
+absorbing over two points of impact from currency. We continued to 
+deliver operating leverage driven by our revenue scale and mix this 
+quarter. 
+  
+  IBM 3Q23 Earnings Prepared Remarks 
+Consulting 
+ 
+Our Consulting revenue was up 5% with growth across all three lines of 
+business and geographies. With another quarter of strong signings, as I 
+said, our trailing twelve-month book-to-bill ratio is now over 1.15. Clients 
+continue to prioritize transformation projects that enable cost savings and 
+productivity. These results are a proof point that we are well positioned to 
+meet these needs in today’s complex environment.  
+ 
+IBM’s focused hybrid cloud and AI strategy has become even more of a 
+differentiator as clients’ interest in generative AI continues to ramp. We 
+are helping clients understand how AI can be used to automate tasks, 
+make better decisions with speed and improve customer experiences. 
+We’ve made a series of AI announcements over the last few months 
+demonstrating continued advancement of our strategic partnerships. We 
+are providing clients with the opportunity to accelerate their 
+transformation and deploy generative AI responsibly, whether that be 
+leveraging AI capabilities of IBM, our partners, or a combination.   
+ 
+Today, our strategic partnerships account for about 40% of Consulting 
+revenue and have continued to grow double digits across revenue and 
+signings. In aggregate, our hyperscaler partnership revenue was up over 
+40% and signings essentially doubled year to year. Additionally, our Red 
+Hat practice, which helps clients optimize how they build, deploy and 
+manage applications for a hybrid cloud environment has continued to 
+grow at a double-digit rate, with over $1 billion of signings in the quarter. 
+ 
+All of what I’ve just mentioned – from market demand, to how we’re 
+positioned and partnering, to our investments to drive growth – is 
+reflected in our overall Consulting revenue performance. You can see that 
+play out across our three lines of business. In Business Transformation, 
+  IBM 3Q23 Earnings Prepared Remarks 
+revenue grew 5%, again led by data and technology transformations 
+including AI and analytics-focused projects. Finance and supply chain 
+transformations also contributed to the growth. In Technology Consulting, 
+revenue was up 1%. Growth in cloud-based application development and 
+modernization work was partially offset by declines in on-prem 
+application-focused projects. In Application Operations, revenue grew 
+7%, driven by both cloud application management and platform 
+engineering services. In platform engineering, we help clients design an 
+application environment that runs securely and smoothly at scale.  
+ 
+Moving to Consulting profit, we expanded gross margin 150 basis points. 
+Pre-tax margin expanded 40 basis points to just over 10%. Our year-to-
+year margin performance reflects productivity actions we’ve taken, 
+mitigated by increased labor costs and about a point of pre-tax margin 
+impact from currency.  
+  
+  IBM 3Q23 Earnings Prepared Remarks 
+Infrastructure  
+ 
+Moving to the Infrastructure segment, revenue was down 3%. Hybrid 
+Infrastructure revenue was flat, while Infrastructure Support declined 7%. 
+ 
+Within Hybrid Infrastructure, zSystems grew 9% in a seasonally smaller 
+revenue quarter. Z16 revenue remains well ahead of prior cycles after six 
+quarters of availability. The program strength reflects both growing 
+enterprise workload requirements and the economic value at scale of the 
+platform in traditional processing and Linux consolidation. In fact, 
+installed MIPs capacity for Linux on Z has grown more than 4-fold over the 
+last decade. Clients continue to value the security, resiliency and hybrid 
+cloud capabilities of the zSystems platform. Distributed Infrastructure 
+revenue was down 6% as compared to a strong growth in last year of 21% 
+as we introduced innovation across Storage and Power10. This quarter, 
+we had growth in Power offset by declines in Storage.  
+ 
+In the Infrastructure segment we had strong gross and pre-tax margin 
+performance. Pre-tax margin expanded 350 basis points, reflecting 
+benefits from portfolio mix with our zSystems performance and 
+productivity, while absorbing over a point of impact from currency. 
+ 
+  
+  IBM 3Q23 Earnings Prepared Remarks 
+Summary 
+ 
+Now let me bring it back up to the IBM level to talk about our expectations 
+before we go to Q&A. Just about two years ago, we introduced Today’s 
+IBM, a more focused business with a platform-based approach to hybrid 
+cloud and AI. Since then, we’ve continued to invest organically and 
+inorganically, bring new products and innovation to market, expand our 
+ecosystem and our talent base and drive productivity across our business. 
+The result is a business that addresses today’s client needs, with a 
+stronger financial profile. Our third quarter performance reinforces this 
+progress with three-and-a-half percent revenue growth, gross and pre-tax 
+margin expansion and strong free cash flow generation. 
+ 
+Now, with three quarters of the year behind us, we are holding our full-
+year view of our two primary financial metrics, revenue growth and free 
+cash flow. We continue to expect constant currency revenue growth of 
+three to five percent, and free cash flow of about ten-and-a-half billion 
+dollars – that’s up $1.2 billion over last year. We’ve had solid revenue 
+performance all year in our growth vectors of Software and Consulting. We 
+still expect Software revenue growth at the high end of its mid-single digit 
+model, and Consulting revenue in the six to eight percent range. 
+Infrastructure revenue of course, reflects product cycle dynamics. In total, 
+with one quarter to go, it’s prudent to assume the low end of IBM’s three-
+to-five percent range.  
+ 
+We are making great progress in our productivity initiatives. The work we 
+are doing to digitally transform our business not only makes us more 
+nimble by simplifying and streamlining our processes and operations, but 
+it also frees up spend for reinvestment, provides financial flexibility and 
+delivers operating leverage. This contributes to solid margin and free cash 
+flow performance. We continue to expect about a half-a-point of operating 
+  IBM 3Q23 Earnings Prepared Remarks 
+pre-tax margin improvement, and we see a mid-teens tax rate for the year. 
+Our free cash flow performance has been driven primarily from our profit 
+performance. Through the first three quarters, we’re up a billion dollars 
+year to year, and we’ve delivered nearly 50% of our full-year expectation, 
+which is ahead of our historical attainment. While, as always, we are 
+reliant on a seasonally strong fourth quarter, we’re on track to achieve 
+about ten-and-a-half billion dollars for the year.  
+ 
+As I look specifically at the fourth quarter, with the recent currency 
+movements, we now see currency to be neutral to a one-point headwind 
+to revenue growth. That’s nearly $600 million worse than 90 days ago. I’d 
+expect constant currency revenue growth in the fourth quarter to be 
+similar to the third. That’s despite a tough compare from last year’s strong 
+ELA contribution in Software and the large z16 transactional performance 
+in Infrastructure. This demonstrates continued momentum in our 
+underlying business. 
+ 
+Bring it all together, we’ve clearly got a higher-growth, higher-value 
+business with strong cash generation – a business well-positioned for the 
+future. Arvind and I are now happy to take your questions. Patricia, let’s 
+get started.   
+  IBM 3Q23 Earnings Prepared Remarks 
+Closing 
+ 
+Thank you, Jim. Before we begin the Q&A, I’d like to mention a couple of 
+items. First, supplemental information is provided at the end of this 
+presentation. And then second, I’ll try this one last time, but I’d ask you to 
+refrain from multi-part questions to allow time for more people to 
+participate. Operator, let’s please open it up for questions.
