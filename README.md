@@ -7,6 +7,12 @@ the IBM Granite Finance models.
 
 Coming soon
 
+## Build Status
+
+<a href="https://github.com/ibm-granite-community/granite-finance-cookbook/actions/workflows/vanilla-workflow.yaml">
+  <img src="https://github.com/ibm-granite-community/granite-finance-cookbook/actions/workflows/vanilla-workflow.yaml/badge.svg" alt="CI for Vanilla Notebooks">
+</a>
+
 ## Contributing
 
 For information about contributing to this repo, code of conduct guidelines, etc., see the community [CONTRIBUTING][CG] and [Code of Conduct][CoC] guides.  All commits require DCO-signoff (discussed [here][CG-legal]) _and_ GPG or SSH signing (discussed [here][CG-signing]).  The GitHub recommended code security settings are enforced on this public repository (which include the signing requirement).
