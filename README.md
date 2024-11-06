@@ -9,8 +9,8 @@ Coming soon
 
 ## Build Status
 
-<a href="https://github.com/ibm-granite-community/granite-finance-cookbook/actions/workflows/vanilla_workflow.yaml">
-  <img src="https://github.com/ibm-granite-community/granite-finance-cookbook/actions/workflows/vanilla_workflow.yaml/badge.svg" alt="CI for Vanilla Notebooks">
+<a href="https://github.com/ibm-granite-community/granite-finance-cookbook/actions/workflows/notebooks.yaml">
+  <img src="https://github.com/ibm-granite-community/granite-finance-cookbook/actions/workflows/notebooks.yaml/badge.svg" alt="Testing Notebooks">
 </a>
 
 ## Contributing
