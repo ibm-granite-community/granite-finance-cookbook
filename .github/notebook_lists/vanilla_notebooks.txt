@@ -1,0 +1,2 @@
+# All notebooks under recipes
+recipes/**/*.ipynb
