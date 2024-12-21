@@ -5,7 +5,7 @@ the IBM Granite Finance models.
 
 ## Recipes
 
-1. [Customer Service Datbase Access as Tool Use](/recipes/Customer_Service_Agent/customer_support_agent.ipynb)
+1. [Customer Service Database Access as Tool Use](/recipes/Customer_Service_Agent/customer_support_agent.ipynb)
    <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/granite-finance-cookbook/blob/main/recipes/Customer_Service_Agent/customer_support_agent.ipynb">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
    </a>
